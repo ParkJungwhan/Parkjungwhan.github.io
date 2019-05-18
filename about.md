@@ -27,7 +27,7 @@ active: about
 - 2012.03 ~ 2014.02
 	- C#(.Net 2.0, Winform, VS 2005), Infragistics.Winform, TeeChart, Mantis, NSIS
 	- 기존 MFC 솔루션을 C#(Winform, 2.0)으로 포팅하는 프로젝트. 파일관리/GDI+ 업무를 담당함
-	- C#에 대한 책 한권(뇌를 자극하는 프로그래밍)을 기준으로 매일 오전 출근 한시간전에 와서 개인적으로 스터디를 함 : 기초 학습 완료
+	- C#에 대한 책 한권(뇌를 자극하는 프로그래밍)을 기준으로 매일 오전 출근 한시간전에 와서 개인적으로 스터디를 함 : 기초 학습
 
 - 2014.03 ~ 2014.09
 	- C#(.Net 4.0, Winform, VS2010), NSIS, MS SourceSafe
@@ -35,11 +35,11 @@ active: about
 
 - 2014.10 ~ 2015.08
 	- C#(.Net 4.0, Winform, VS2010), Infragistics.Winform, Git, TeeChart, Jenkins, Mantis, NSIS
- 	- 회사 두번째 솔루션. 처음 프로그램 설계에서부터 출시까지 전반적으로 참여
- 	- 해석 자동화 프로그램 루틴중 일부 프로그램에 최적화된 독립적인 프로그램으로 개발
- 	- 순수 Winform으로 UI를 작성(외부 라이브러리 사용안함, 그리드 제외)
- 	- 데이터를 Report로 출력하는 DynamicReports(JasperReport기반) OpenSource 라이브러리 사용으로 Report 문서 작성 단독 개발(java, eclipse)
- 	- 사내 최초 Git 도입/사용 (Bonobo Git Server 설치, SourceTree 사용, VS 2010연동)
+	- 회사 두번째 솔루션. 처음 프로그램 설계에서부터 출시까지 전반적으로 참여
+	- 해석 자동화 프로그램 루틴중 일부 프로그램에 최적화된 독립적인 프로그램으로 개발
+	- 순수 Winform으로 UI를 작성(외부 라이브러리 사용안함, 그리드 제외)
+	- 데이터를 Report로 출력하는 DynamicReports(JasperReport기반) OpenSource 라이브러리 사용으로 Report 문서 작성 단독 개발(java, eclipse)
+	- 사내 최초 Git 도입/사용 (Bonobo Git Server 설치, SourceTree 사용, VS 2010연동)
 
 - 2015.09 ~ 2016.02
 	- C#(.Net 4.0, VS2012, Winform), Infragistics.Winform

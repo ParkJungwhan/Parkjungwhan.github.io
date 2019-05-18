@@ -16,8 +16,9 @@ active: about
 
 ###### 첫회사
 - 2011.06 ~ 2012.03
-    - C/C++ ssssss
-    - ssss
+	- C/C++(VS.Net 2003), Mantis, VS SourceSafe
+	- MFC 응용프로그램 Test 전담,프레임워크 컴포넌트 개발에 참여(후반부)
+	- Mantis를 통한 Test 관리
 
 - 2011.06 ~ 2012.03
     - C/C++(MFC), VS.Net 2003, Mantis, VS SourceSafe

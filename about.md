@@ -94,7 +94,7 @@ active: about
 각 커뮤니티 사이트별로 아이디는 아래와 같습니다.
 - [okky](https://okky.kr/) : 밀수나라(pjh2104)
 - [Hoons.net](http://hoons.net/) : 롬메달
-- [GAMECODI](http://www.gamecodi.com/) : 정환나라(pjh2104)
+- ~~[GAMECODI](http://www.gamecodi.com/) : 정환나라(pjh2104/탈퇴)~~
 - [Facebook](https://www.facebook.com/) : 박정환(pjh2104)
 - [Twitter](https://twitter.com/) : @pjh2104
 

@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Debug Mode"
+crawlertitle: "Debug"
+summary: "Debug Mode"
+date:  2019-09-19 02:29:00 +0700
+categories: posts
+tags: 'Debug'
+author: pjh2104
+---
 #Debug Mode?
 
 ## C#내에서의 Debugging
